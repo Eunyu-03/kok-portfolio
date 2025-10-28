@@ -4,9 +4,8 @@
 
 ### ERD
 
-- **SQL을 활용**하여 테이블을 구성했습니다.
-- DML 문법으로 실제 데이터를 직접 insert, update, delete, select 하고 확인했습니다.
-- 테이블 간의 관계를 고려하여 **데이터베이스를 구현**했습니다.
+- **SQL 활용 능력단위**에서 배운 DML 문법으로 실제 데이터를 직접 insert, update, delete, select 하고 확인했습니다.
+- **데이터베이스 구현 능력단위**에서 배운 테이블 간의 관계를 고려하여 ERD를 구성하였습니다.
 
 <img width="9038" height="6284" alt="image" src="https://github.com/user-attachments/assets/96b929b1-6316-4b98-800d-e9f344d79501" />
 
@@ -15,7 +14,7 @@
 
 ### 벤치마킹 웹 사이트: 로켓펀치
 
-- HTML, CSS, JS를 활용하여 **화면을 구현**했습니다.
+- **화면 구현 능력단위**에서 배운 HTML, CSS, JS를 활용하여 로켓펀치 사이트를 클론 코딩하였습니다.
 - JS로 유효성 검사 등 동적 이벤트를 추가했습니다.
 &nbsp;
 
@@ -51,41 +50,7 @@
 
 &nbsp;
 
-## 3. 프로젝트 사용 툴&스킬
-
-- Java
-- Java Script
-- tomcat
-- MyBatis
-- Spring Boot
-- Postgre
-- intelli J
-- JSON
-- JDK
-- Naver DEVELOPER API
-- Kakao DEVELOPER API
-- Google Cloud API
-- HTML, CSS, JS
-- JSP
-- AWS-EC2
-- AWS-IAM
-- Thymeleaf
-- VS Code
-- JavaMail
-- Git(Git-hub)
-- Git-Bash
-- YML
-- Gradle
-- Slack
-
-
-## 4. ERD
-
-
-
-
-
-## 5. 담당 업무
+## 3. 담당 업무
 
 ### 1. 프론트엔드
 
@@ -140,6 +105,36 @@
 
 지원자 평가
 - 체험 공고에 합격했고, 체험일이 지난 지원자 평가 남기기
+
+- Java
+- Java Script
+- tomcat
+- MyBatis
+- Spring Boot
+- Postgre
+- intelli J
+- JSON
+- JDK
+- Naver DEVELOPER API
+- Kakao DEVELOPER API
+- Google Cloud API
+- HTML, CSS, JS
+- JSP
+- AWS-EC2
+- AWS-IAM
+- Thymeleaf
+- VS Code
+- JavaMail
+- Git(Git-hub)
+- Git-Bash
+- YML
+- Gradle
+- Slack
+
+
+
+
+## 5. 담당 업무
 
 ## 6. 트러블 슈팅
 
@@ -201,5 +196,6 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 또한 사용자 중심의 기능을 개발하면서 단순한 CRUD를 넘어서, 실제 서비스에서 발생할 수 있는 다양한 예외 상황과 디테일한 로직을 다루는 능력이 향상되었다고 느낀다. 예를 들어 공고 필터링이나 파일 업로드 같은 기능은 단순해 보이지만, 실제 구현 과정에서는 복잡한 조건과 예외 처리가 필요했고, 이를 해결하면서 문제 해결 능력도 함께 성장할 수 있었다.
 
 이번 프로젝트는 기술적인 성장을 넘어, 서비스 전체를 바라보는 시야와 협업을 통한 문제 해결 능력까지 함께 키워준 값진 경험이었다. 앞으로도 더 많은 실전 프로젝트를 통해 백엔드 개발자로서의 깊이와 넓이를 동시에 확장해 나가고 싶다.
+
 
 
