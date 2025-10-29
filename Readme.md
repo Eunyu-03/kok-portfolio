@@ -54,8 +54,6 @@
 
 ### 1. 프론트엔드
 
-- **통합 구현 능력단위**에서 배운 기술을 활용하여 화면을 구성하였다.
-
 <img width="1527" height="550" alt="image" src="https://github.com/user-attachments/assets/ff688077-9f7b-4167-aefc-74efe623fcb0" />
 
 기업 콘솔
@@ -151,6 +149,55 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 
 ## 7. QA 테스트
 
+- **애플리케이션 테스트 수행 능력단위**에서 배운 내용을 토대로 QA 테스트 문서를 작성, 수행했다.
+
 <img width="1492" height="505" alt="image" src="https://github.com/user-attachments/assets/55ff60f2-4b0f-4c6b-814d-d3694332a70d" />
 
+## 8. Web View
+
+- **통합 구현 능력단위**에서 배운 react-native 기술을 활용하여 미디어 쿼리로 모바일 화면을 구축하였다.
+
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/7e6d38ca-fb23-4517-a253-92773deebe8d" />
+
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/399899d1-9bfa-4fb0-9c48-394e0249e0d0" />
+
+## 9. 인프라 구축 구분
+
+#### aws 인스턴스
+<img width="635" height="437" alt="image" src="https://github.com/user-attachments/assets/625bff49-08bb-477b-85ea-c41ee7acd80d" />
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+#### PuTTY
+<img width="666" height="673" alt="image" src="https://github.com/user-attachments/assets/484f73c0-0405-4dfa-84da-570f354a7682" />
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+- aws 인스턴스를 활용하여 **애플리케이션 배포 능력단위**에서 배운 대로 배포하였다.
+- 부족한 용량을 최대한 활용하기 위해 각 인스턴스를 나누었다.
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+#### spring
+spring 서버
+
+<img width="1448" height="81" alt="image" src="https://github.com/user-attachments/assets/c75e5565-cd15-40c6-ac94-664bdb45a2a3" />
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+#### database
+Postgre sql과 redis
+
+<img width="1564" height="1008" alt="image" src="https://github.com/user-attachments/assets/1d077c3f-d4b3-4fae-bd72-d34c4eaf7bb3" />
+
+<img width="848" height="123" alt="image" src="https://github.com/user-attachments/assets/15b62270-c027-426e-88c8-24e1e2241380" />
 
