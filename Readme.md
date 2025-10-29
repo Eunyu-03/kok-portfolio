@@ -151,4 +151,6 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 
 ## 7. QA 테스트
 
+<img width="1492" height="505" alt="image" src="https://github.com/user-attachments/assets/55ff60f2-4b0f-4c6b-814d-d3694332a70d" />
+
 
