@@ -109,8 +109,8 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 - **통합 구현 능력단위**에서 배운 `react-native` 기술로 모바일 화면 구축
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e6d38ca-fb23-4517-a253-92773deebe8d" width="300" />
-  <img src="https://github.com/user-attachments/assets/399899d1-9bfa-4fb0-9c48-394e0249e0d0" width="300" />
+  <img src="https://github.com/user-attachments/assets/7e6d38ca-fb23-4517-a253-92773deebe8d" width="400" />
+  <img src="https://github.com/user-attachments/assets/399899d1-9bfa-4fb0-9c48-394e0249e0d0" width="400" />
 </p>
 
 ---
@@ -142,3 +142,4 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 또한 사용자 중심의 기능을 개발하면서 단순한 CRUD를 넘어서, 실제 서비스에서 발생할 수 있는 다양한 예외 상황과 디테일한 로직을 다루는 능력이 향상되었다고 느낀다. 예를 들어 공고 필터링이나 파일 업로드 같은 기능은 단순해 보이지만, 실제 구현 과정에서는 복잡한 조건과 예외 처리가 필요했고, 이를 해결하면서 문제 해결 능력도 함께 성장할 수 있었다.
 
 기술적인 성장에 더해 서비스 전체를 바라보는 시야와 협업을 통한 문제 해결 능력까지 함께 키워준 값진 경험이었다. 앞으로도 더 많은 실전 프로젝트를 통해 백엔드 개발자로서의 깊이와 넓이를 동시에 확장해 나가고 싶다.
+
