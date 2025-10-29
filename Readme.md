@@ -108,7 +108,7 @@
 지원자 평가
 - 체험 공고에 합격했고, 체험일이 지난 지원자 평가 남기기
 
-## 6. 트러블 슈팅
+## 4. 트러블 슈팅
 
 ### 오류 발생
 
@@ -147,13 +147,13 @@ profile이 null이 아닐 경우에만 업데이트하도록 조건문을 걸어
 
 finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 상세 페이지 로딩도 잘 되고 Redis에도 값이 잘 담기는 것을 확인할 수 있었다.
 
-## 7. QA 테스트
+## 5. QA 테스트
 
 - **애플리케이션 테스트 수행 능력단위**에서 배운 내용을 토대로 QA 테스트 문서를 작성, 수행했다.
 
 <img width="1492" height="505" alt="image" src="https://github.com/user-attachments/assets/55ff60f2-4b0f-4c6b-814d-d3694332a70d" />
 
-## 8. Web View
+## 6. 앱 전환-Web View
 
 - **통합 구현 능력단위**에서 배운 react-native 기술을 활용하여 미디어 쿼리로 모바일 화면을 구축하였다.
 
@@ -161,7 +161,7 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 
 <img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/399899d1-9bfa-4fb0-9c48-394e0249e0d0" />
 
-## 9. 인프라 구축 구분
+## 7. 인프라 구축 구분
 
 #### aws 인스턴스
 <img width="635" height="437" alt="image" src="https://github.com/user-attachments/assets/625bff49-08bb-477b-85ea-c41ee7acd80d" />
@@ -200,4 +200,5 @@ Postgre sql과 redis
 <img width="1564" height="1008" alt="image" src="https://github.com/user-attachments/assets/1d077c3f-d4b3-4fae-bd72-d34c4eaf7bb3" />
 
 <img width="848" height="123" alt="image" src="https://github.com/user-attachments/assets/15b62270-c027-426e-88c8-24e1e2241380" />
+
 
