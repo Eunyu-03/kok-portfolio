@@ -7,7 +7,7 @@
 - **SQL 활용 능력단위**에서 배운 DML 문법으로 실제 데이터를 직접 `insert`, `update`, `delete`, `select` 하고 확인했다.
 - **데이터베이스 구현 능력단위**에서 배운 테이블 간의 관계를 고려하여 ERD를 구성하였다.
 
-<img width="9038" height="6284" alt="image" src="https://github.com/user-attachments/assets/96b929b1-6316-4b98-800d-e9f344d79501" />
+<img width="9038" height="6284" alt="Image" src="https://github.com/user-attachments/assets/f4d08ece-3bef-4971-a8b5-419c29374777" />
 
 ---
 
@@ -21,15 +21,15 @@
 #### 🖼️ 예시 이미지
 
 <p align="center">
-  <img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/ed63a61b-7445-456d-98ad-b5fa360a1394" />
-  <img width="1900" height="898" alt="image" src="https://github.com/user-attachments/assets/101a3970-53f5-4b2e-9400-eb4d056268be" />
+  <img width="1915" height="905" alt="Image" src="https://github.com/user-attachments/assets/688a1d3f-b641-42ec-bb95-a82bb123cfca" />
+<img width="1900" height="898" alt="Image" src="https://github.com/user-attachments/assets/da9ed8fa-99e5-4541-9249-f0b335337ee1" />
 </p>
 
 #### 🧪 클론 코딩
 
 <p align="center">
-  <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/1086ec91-eb68-4426-b54f-214ad340a764" />
-  <img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/37b49627-dbbd-41ac-80b3-1c6ec4104004" />
+  <img width="1917" height="902" alt="Image" src="https://github.com/user-attachments/assets/5efbeca6-e188-4088-a81a-d6448d006942" />
+<img width="1898" height="904" alt="Image" src="https://github.com/user-attachments/assets/8948f1d2-839e-46ee-ad19-fa1e510546f9" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ### 🎯 프론트엔드
 
-<img width="1527" height="550" alt="image" src="https://github.com/user-attachments/assets/ff688077-9f7b-4167-aefc-74efe623fcb0" />
+<img width="1015" height="403" alt="Image" src="https://github.com/user-attachments/assets/6ff8c100-3670-43bf-a98c-5a7e47cbda75" />
 
 기업 콘솔
 - 기업 홈(공고와 광고 관련 정보 표시)
@@ -55,7 +55,7 @@
 
 ### 🛠️ 백엔드
 
-<img width="2381" height="375" alt="image" src="https://github.com/user-attachments/assets/6137c258-2264-4a06-8d6f-6c52f687c773" />
+<img width="1839" height="311" alt="Image" src="https://github.com/user-attachments/assets/c44a8236-96fe-40ac-9068-b29b9b57855f" />
 
 체험 공고
 - 체험 공고 목록 불러오기
@@ -97,15 +97,15 @@
 ### ⚠️ 오류 발생
 
 #### <오류> - at com.example.kok.service.MemberServiceImpl.updateProfile(MemberServiceImpl.java:221)  
-<img width="2319" height="219" alt="image" src="https://github.com/user-attachments/assets/05a862fb-7cdb-47a9-ab70-cc075a8e222a" />
+<img width="2319" height="219" alt="Image" src="https://github.com/user-attachments/assets/bfb4e4b8-3ce7-4362-bff1-f0b9b9bbd1f1" />
 
 #### <이전 코드>  
-<img width="1142" height="1139" alt="image" src="https://github.com/user-attachments/assets/b1c29c39-c7df-4822-8f11-2b7ebb139e6b" />
+<img width="1142" height="1139" alt="Image" src="https://github.com/user-attachments/assets/3106abbf-5d54-41ef-a84d-7263f8da418f" />
 
 ### ✅ 해결
 
 #### <수정된 코드>  
-<img width="1309" height="1252" alt="image" src="https://github.com/user-attachments/assets/1a142b88-636c-4670-b05d-d5dc4d3de55d" />
+<img width="1309" height="1252" alt="Image" src="https://github.com/user-attachments/assets/0339d1a1-e6b9-49b2-8e2d-432b836267da" />
 
 profile이 null이 아닐 경우에만 업데이트하도록 조건문을 걸어 프로필 변경을 선택하지 않으면 원래 프로필이 유지가 되도록 했다.
 
@@ -116,18 +116,18 @@ profile이 null이 아닐 경우에만 업데이트하도록 조건문을 걸어
 공고 상세 조회를 할 때 Redis에 chaching으로 experienceNoticeDTO를 키 값으로 담으려다 상세 페이지가 로딩되지 않는 오류가 생겼다.
 
 #### <오류>  
-<img width="2311" height="330" alt="image" src="https://github.com/user-attachments/assets/cb32308d-62fb-4117-92eb-7006105da3c0" />
+<img width="2311" height="330" alt="Image" src="https://github.com/user-attachments/assets/f509ff63-74e4-4790-9428-75f1b2333ed9" />
 
 #### <이전 코드>  
-<img width="1022" height="715" alt="image" src="https://github.com/user-attachments/assets/6392669b-5d1d-404f-8319-86aae866b29a" />
+<img width="1022" height="715" alt="Image" src="https://github.com/user-attachments/assets/a525980f-e609-4fe9-964a-e810481158d9" />
 
 ### ✅ 해결
 
 #### <수정된 코드>  
-<img width="982" height="787" alt="image" src="https://github.com/user-attachments/assets/433a7950-1083-4473-b125-e43d57e2f7e8" />
+<img width="982" height="787" alt="Image" src="https://github.com/user-attachments/assets/d1c9c0bc-8095-43ed-842b-3e3f0443d40a" />
 
 #### <Redis 키, 밸류>  
-<img width="368" height="84" alt="image" src="https://github.com/user-attachments/assets/ef596e7a-c7f0-476d-b717-cb4df1f2ea79" />
+<img width="368" height="84" alt="Image" src="https://github.com/user-attachments/assets/35a8e39c-0e2a-4de0-ba27-745098efcf78" />
 
 finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 상세 페이지 로딩도 잘 되고 Redis에도 값이 잘 담기는 것을 확인할 수 있었다.
 
@@ -141,7 +141,7 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 - 체험 공고 필터링, 지원 기능, 마이페이지 접근 등 주요 기능에 대해 반복 테스트를 수행하여 안정성을 확보하였다.
 - 테스트 결과를 QA 문서로 정리하여 팀원들과 공유하였다.
 
-<img width="1492" height="505" alt="image" src="https://github.com/user-attachments/assets/55ff60f2-4b0f-4c6b-814d-d3694332a70d" />
+<img width="968" height="364" alt="Image" src="https://github.com/user-attachments/assets/f05c3c15-487d-4a56-b3c9-5184eeab2a3b" />
 
 
 ---
@@ -155,8 +155,8 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 - 실제 기기에서 테스트하며 반응형 디자인의 문제점을 발견하고, 이를 해결하기 위해 CSS 조건 분기와 플랫폼별 스타일 조정을 적용하였다.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e6d38ca-fb23-4517-a253-92773deebe8d" width="400" />
-  <img src="https://github.com/user-attachments/assets/399899d1-9bfa-4fb0-9c48-394e0249e0d0" width="400" />
+  <img width="399" height="868" alt="Image" src="https://github.com/user-attachments/assets/617bf017-2f19-418a-b4e0-4784a5b3162c" width="400" />
+<img width="397" height="864" alt="Image" src="https://github.com/user-attachments/assets/b2575e84-d9cf-4997-b1fc-6953527ad442" width="400" />
 </p>
 
 ---
@@ -188,6 +188,7 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 또한 사용자 중심의 기능을 개발하면서 단순한 CRUD를 넘어서, 실제 서비스에서 발생할 수 있는 다양한 예외 상황과 디테일한 로직을 다루는 능력이 향상되었다고 느낀다. 예를 들어 공고 필터링이나 파일 업로드 같은 기능은 단순해 보이지만, 실제 구현 과정에서는 복잡한 조건과 예외 처리가 필요했고, 이를 해결하면서 문제 해결 능력도 함께 성장할 수 있었다.
 
 기술적인 성장에 더해 서비스 전체를 바라보는 시야와 협업을 통한 문제 해결 능력까지 함께 키워준 값진 경험이었다. 앞으로도 더 많은 실전 프로젝트를 통해 백엔드 개발자로서의 깊이와 넓이를 동시에 확장해 나가고 싶다.
+
 
 
 
