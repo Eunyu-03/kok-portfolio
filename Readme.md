@@ -38,43 +38,8 @@
 - **오른쪽 그래프**: 30세 이상 취업자 수 추이
 
 #### 구현 코드
-```python
-df = pd.read_csv("./datasets/employment_rate.csv")
 
-months = df.columns[2:]
-
-youth = df[(df["성별"] == "계") & (df["연령계층별"] == "15 - 29세")][months].values.flatten()
-
-senior_30_39 = df[(df["성별"] == "계") & (df["연령계층별"] == "30 - 39세")][months].values.flatten()
-senior_40_49 = df[(df["성별"] == "계") & (df["연령계층별"] == "40 - 49세")][months].values.flatten()
-senior_50_59 = df[(df["성별"] == "계") & (df["연령계층별"] == "50 - 59세")][months].values.flatten()
-senior_60_plus = df[(df["성별"] == "계") & (df["연령계층별"] == "60세이상")][months].values.flatten()
-
-# 청년층 고용 통계
-plt.figure(figsize=(10, 5))
-plt.plot(months, youth, marker='o', color='blue', label='Youth (15–29)')
-plt.title('Youth Employment Trend (May–Oct 2025)')
-plt.xlabel('Month')
-plt.ylabel('Number of Employed')
-plt.grid(True)
-plt.legend()
-plt.tight_layout()
-plt.show()
-
-# 청년층 제외 고용 통계
-plt.figure(figsize=(10, 6))
-plt.plot(months, senior_30_39, marker='o', label='Age 30–39')
-plt.plot(months, senior_40_49, marker='o', label='Age 40–49')
-plt.plot(months, senior_50_59, marker='o', label='Age 50–59')
-plt.plot(months, senior_60_plus, marker='o', label='Age 60+')
-plt.title('Senior Employment Trend (May–Oct 2025)')
-plt.xlabel('Month')
-plt.ylabel('Number of Employed')
-plt.grid(True)
-plt.legend()
-plt.tight_layout()
-plt.show()
-```
+https://github.com/Eunyu-03/kok-portfolio/blob/main/kok.ipynb
 
 
 ### 🔍 분석 결과 및 해석
@@ -315,6 +280,7 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 또한 사용자 중심의 기능을 개발하면서 단순한 CRUD를 넘어서, 실제 서비스에서 발생할 수 있는 다양한 예외 상황과 디테일한 로직을 다루는 능력이 향상되었다고 느낀다. 예를 들어 공고 필터링이나 파일 업로드 같은 기능은 단순해 보이지만, 실제 구현 과정에서는 복잡한 조건과 예외 처리가 필요했고, 이를 해결하면서 문제 해결 능력도 함께 성장할 수 있었다.
 
 기술적인 성장에 더해 서비스 전체를 바라보는 시야와 협업을 통한 문제 해결 능력까지 함께 키워준 값진 경험이었다. 앞으로도 더 많은 실전 프로젝트를 통해 백엔드 개발자로서의 깊이와 넓이를 동시에 확장해 나가고 싶다.
+
 
 
 
