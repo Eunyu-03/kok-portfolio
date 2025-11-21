@@ -89,15 +89,15 @@
 #### 🖼️ 예시 이미지
 
 <p align="center">
-  <img width="1915" height="905" alt="Image" src="https://github.com/user-attachments/assets/688a1d3f-b641-42ec-bb95-a82bb123cfca" />
-<img width="1900" height="898" alt="Image" src="https://github.com/user-attachments/assets/da9ed8fa-99e5-4541-9249-f0b335337ee1" />
+  <img width="1917" height="902" alt="Image" src="https://github.com/user-attachments/assets/5efbeca6-e188-4088-a81a-d6448d006942" />
+<img width="1898" height="904" alt="Image" src="https://github.com/user-attachments/assets/8948f1d2-839e-46ee-ad19-fa1e510546f9" />
 </p>
 
 #### 🧪 클론 코딩
 
 <p align="center">
-  <img width="1917" height="902" alt="Image" src="https://github.com/user-attachments/assets/5efbeca6-e188-4088-a81a-d6448d006942" />
-<img width="1898" height="904" alt="Image" src="https://github.com/user-attachments/assets/8948f1d2-839e-46ee-ad19-fa1e510546f9" />
+  <img width="1915" height="905" alt="Image" src="https://github.com/user-attachments/assets/688a1d3f-b641-42ec-bb95-a82bb123cfca" />
+<img width="1900" height="898" alt="Image" src="https://github.com/user-attachments/assets/da9ed8fa-99e5-4541-9249-f0b335337ee1" />
 </p>
 
 ---
@@ -229,8 +229,8 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 - 실제 기기에서 테스트하며 반응형 디자인의 문제점을 발견하고, 이를 해결하기 위해 CSS 조건 분기와 플랫폼별 스타일 조정을 적용하였다.
 
 <p align="center">
-  <img width="399" height="868" alt="Image" src="https://github.com/user-attachments/assets/617bf017-2f19-418a-b4e0-4784a5b3162c" width="400" />
-<img width="397" height="864" alt="Image" src="https://github.com/user-attachments/assets/b2575e84-d9cf-4997-b1fc-6953527ad442" width="400" />
+  <img width="399" height="868" alt="Image" src="https://github.com/user-attachments/assets/617bf017-2f19-418a-b4e0-4784a5b3162c" />
+<img width="397" height="864" alt="Image" src="https://github.com/user-attachments/assets/b2575e84-d9cf-4997-b1fc-6953527ad442" />
 </p>
 
 ---
@@ -285,6 +285,7 @@ finNoticeById의 파라미터인 id로 키 값을 변경하였다. 그 결과 �
 또한 사용자 중심의 기능을 개발하면서 단순한 CRUD를 넘어서, 실제 서비스에서 발생할 수 있는 다양한 예외 상황과 디테일한 로직을 다루는 능력이 향상되었다고 느낀다. 예를 들어 공고 필터링이나 파일 업로드 같은 기능은 단순해 보이지만, 실제 구현 과정에서는 복잡한 조건과 예외 처리가 필요했고, 이를 해결하면서 문제 해결 능력도 함께 성장할 수 있었다.
 
 기술적인 성장에 더해 서비스 전체를 바라보는 시야와 협업을 통한 문제 해결 능력까지 함께 키워준 값진 경험이었다. 앞으로도 더 많은 실전 프로젝트를 통해 백엔드 개발자로서의 깊이와 넓이를 동시에 확장해 나가고 싶다.
+
 
 
 
